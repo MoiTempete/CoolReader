@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/45/trunk/CoolReader
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/31/trunk/CoolReader/default.properties
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/CoolReader/AndroidManifest.xml
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/8/trunk/CoolReader/CHANGELOG
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/14/trunk/CoolReader/COPYING
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/6/trunk/CoolReader/dom4j-1.6.1.jar
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/16/trunk/CoolReader/OWNERS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/14/trunk/CoolReader/README
+END

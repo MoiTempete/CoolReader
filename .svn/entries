@@ -1,0 +1,122 @@
+8
+
+dir
+46
+http://coolreader.googlecode.com/svn/trunk/CoolReader
+http://coolreader.googlecode.com/svn
+
+
+
+2009-06-21T14:05:43.228369Z
+45
+mawei.81
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+72fe2aae-c5f7-11dd-a86e-7346a4b24aab
+
+AndroidManifest.xml
+file
+
+
+
+
+2011-05-12T04:54:04.000000Z
+3c4ce09f5ca8e869a18e4e7d32c80b61
+2009-05-01T03:55:07.435548Z
+40
+mawei.81
+
+CHANGELOG
+file
+
+
+
+
+2011-05-12T04:54:04.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2009-02-02T05:10:21.047086Z
+8
+kyowxf2003
+
+COPYING
+file
+
+
+
+delete
+2011-05-12T04:54:04.000000Z
+c2d11623156d6b2d647e99ec3c58c396
+2009-03-27T13:52:08.630608Z
+14
+kyowxf2003@Gmail.com
+
+OWNERS
+file
+
+
+
+
+2011-05-12T04:54:04.000000Z
+e1f9f48e2216a8f958e7d3802b10d3c3
+2009-04-20T08:59:56.038522Z
+16
+sinfranciswong@gmail.com
+
+README
+file
+
+
+
+
+2011-05-12T04:54:04.000000Z
+15cf31dca6c9d14bd578f8e781d08d9b
+2009-03-27T13:52:08.630608Z
+14
+kyowxf2003@Gmail.com
+
+assets
+dir
+
+default.properties
+file
+
+
+
+
+2011-05-12T04:54:04.000000Z
+2254ea000a039baa361bda6a4d66498d
+2009-05-01T02:59:14.524162Z
+31
+mawei.81
+
+dom4j-1.6.1.jar
+file
+
+
+
+
+2011-05-12T04:54:04.000000Z
+4d8f51d3fe3900efc6e395be48030d6d
+2009-02-02T04:41:18.391889Z
+6
+kyowxf2003
+has-props
+
+res
+dir
+
+src
+dir
+
