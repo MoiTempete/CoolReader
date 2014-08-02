@@ -23,15 +23,15 @@ public class IndexActivity extends Activity {
 		
 		Button localFileButton = (Button) findViewById(R.id.localBooks);
 		
-		localFileButton.setOnTouchListener(new View.OnTouchListener(){
-
-			public boolean onTouch(View v, MotionEvent event) {
-				
-				Intent i = new Intent(getApplicationContext(),FileBrowser.class);
-				startActivity(i);
-				return true;
-			}
-		});
+//		localFileButton.setOnTouchListener(new View.OnTouchListener(){
+//
+//			public boolean onTouch(View v, MotionEvent event) {
+//
+//				Intent i = new Intent(getApplicationContext(),FileBrowser.class);
+//				startActivity(i);
+//				return true;
+//			}
+//		});
 		localFileButton.setOnClickListener(new View.OnClickListener(){
 
 			public void onClick(View v) {
